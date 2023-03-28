@@ -251,3 +251,7 @@ kubeadm token generate
 
 kubeadm token create [token] join 
 ```
+
+I have found out that the cluster configuration is not set permenately or there has been configuration error that has not been resolved.
+tried most of common solutions. none has been effective on resolving the issue. contact mentor for help. haha
+
